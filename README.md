@@ -35,7 +35,7 @@ Licenciado en Administración Financiera con más de 12 años de trayectoria en 
   * 💵 [Dashboard de Análisis Financiero](https://github.com/rubenbarrios-bigdata/dashboard-analisis-financiero): Análisis de ingresos, costos y márgenes por línea de negocio (Consumer Tech).
   * 🎧 [Dashboard de Atención al Cliente](https://github.com/rubenbarrios-bigdata/dashboard-atencion-al-cliente): Monitoreo de desempeño operativo, eficiencia de agentes y métricas de servicio (CSAT).
   * 👥 [Dashboard de Recursos Humanos](https://github.com/rubenbarrios-bigdata/dashboard-de-recursos-humanos): Estructura demográfica, desempeño laboral y análisis salarial.
-* **[Dashboard de Ventas en Excel](https://github.com/rubenbarrios-bigdata/dashboard_ventas_excel)**  
+  * 📊[Dashboard de Ventas — ElectroMart](https://github.com/rubenbarrios-bigdata/dashboard_ventas_excel)**  
   Control comercial de supermercado: facturación, ticket promedio, regiones, segmentos y logística de envíos.
 
 ---
