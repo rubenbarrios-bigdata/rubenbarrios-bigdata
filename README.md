@@ -43,4 +43,4 @@ Licenciado en Administración Financiera con más de 12 años de trayectoria en 
 
 * 💼 **LinkedIn:** [linkedin.com/in/ruben-barrios](https://linkedin.com/in/ruben-barrios-1430712ab)
 * 📧 **Email:** [rubendavid1809@gmail.com](mailto:rubendavid1809@gmail.com)
-* 📄 **CV Interactivo:** [cv-html-ruben-barrios](https://github.com/rubenbarrios-bigdata/cv-html-ruben-barrios)
+* 📄 **CV Interactivo:** [cv-html-ruben-barrios](https://rubenbarrios-bigdata.github.io/cv-html-ruben-barrios/)
