@@ -7,10 +7,10 @@ Licenciado en Administración Financiera con más de 12 años de trayectoria en 
 
 ### 🛠️ Stack Tecnológico
 
-- **BI & Visualización:** Power BI (DAX, Power Query) | Looker Studio | Microsoft Excel (Tablas dinámicas, KPIs)
+- **BI & Visualización:** Power BI (DAX, Power Query) | Data Studio | Microsoft Excel (Tablas dinámicas, KPIs)
 - **Bases de Datos & SQL:** MySQL | Google BigQuery | SQLite | Modelado Relacional
 - **Lenguajes & Análisis:** Python (Pandas, NumPy, Matplotlib, Seaborn) | Jupyter Notebooks
-- **Analítica Digital:** Google Analytics 4 (GA4) | Google Tag Manager (GTM) | Firebase | Data Studio
+- **Analítica Digital:** Google Analytics 4 (GA4) | Google Tag Manager (GTM) | Firebase 
 
 ---
 
@@ -35,14 +35,12 @@ Licenciado en Administración Financiera con más de 12 años de trayectoria en 
   * 💵 [Dashboard de Análisis Financiero](https://github.com/rubenbarrios-bigdata/dashboard-analisis-financiero): Análisis de ingresos, costos y márgenes por línea de negocio (Consumer Tech).
   * 🎧 [Dashboard de Atención al Cliente](https://github.com/rubenbarrios-bigdata/dashboard-atencion-al-cliente): Monitoreo de desempeño operativo, eficiencia de agentes y métricas de servicio (CSAT).
   * 👥 [Dashboard de Recursos Humanos](https://github.com/rubenbarrios-bigdata/dashboard-de-recursos-humanos): Estructura demográfica, desempeño laboral y análisis salarial.
-  * 📊[Dashboard de Ventas — ElectroMart](https://github.com/rubenbarrios-bigdata/dashboard_ventas_excel)**  
-  Control comercial de supermercado: facturación, ticket promedio, regiones, segmentos y logística de envíos.
+  * 📊[Dashboard de Ventas — ElectroMart](https://github.com/rubenbarrios-bigdata/dashboard_ventas_excel): Control comercial de supermercado: facturación, ticket promedio, regiones, segmentos y logística de envíos.
 
 ---
 
 ### 📫 Contacto y Enlaces
 
 * 💼 **LinkedIn:** [linkedin.com/in/ruben-barrios](https://linkedin.com/in/ruben-barrios-1430712ab)
-* 🐙 **GitHub:** [github.com/rubenbarrios-bigdata](https://github.com/rubenbarrios-bigdata)
 * 📧 **Email:** [rubendavid1809@gmail.com](mailto:rubendavid1809@gmail.com)
 * 📄 **CV Interactivo:** [cv-html-ruben-barrios](https://github.com/rubenbarrios-bigdata/cv-html-ruben-barrios)
