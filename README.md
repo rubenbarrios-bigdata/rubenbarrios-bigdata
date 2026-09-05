@@ -1,5 +1,5 @@
 # Ruben Barrios
-### Data Analyst | Business Intelligence | SQL | Python | Digital Analytics
+### Data Analyst | Digital Analytics | Business Intelligence | SQL | Python | 
 
 Licenciado en Administración Financiera con más de 12 años de trayectoria en el sector bancario y más de 4 años de experiencia en análisis de métricas y prevención de fraude en e-commerce / logística. Hoy combino mi visión analítica de negocio con herramientas técnicas para extraer, transformar, analizar y visualizar datos que impulsan decisiones estratégicas basadas en evidencias.
 
