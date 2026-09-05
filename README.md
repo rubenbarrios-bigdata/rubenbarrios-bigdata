@@ -31,7 +31,7 @@ Licenciado en Administración Financiera con más de 12 años de trayectoria en 
   Análisis y visualización de datos con **Python, Pandas y Matplotlib** para examinar la evolución histórica, distribución de contenidos y tendencias de catálogo.
 
 #### 📈 Business Intelligence & Dashboards
-* **[Dashboards en Power BI](https://github.com/rubenbarrios-bigdata/dashboard-analisis-financiero)**  
+  * 📊 [Dashboard Análisis Financiero | Power BI](https://github.com/rubenbarrios-bigdata/dashboard-analisis-financiero)**  
   * 💵 [Dashboard de Análisis Financiero](https://github.com/rubenbarrios-bigdata/dashboard-analisis-financiero): Análisis de ingresos, costos y márgenes por línea de negocio (Consumer Tech).
   * 🎧 [Dashboard de Atención al Cliente](https://github.com/rubenbarrios-bigdata/dashboard-atencion-al-cliente): Monitoreo de desempeño operativo, eficiencia de agentes y métricas de servicio (CSAT).
   * 👥 [Dashboard de Recursos Humanos](https://github.com/rubenbarrios-bigdata/dashboard-de-recursos-humanos): Estructura demográfica, desempeño laboral y análisis salarial.
