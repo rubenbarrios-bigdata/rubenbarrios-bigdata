@@ -31,11 +31,16 @@ Licenciado en Administración Financiera con más de 12 años de trayectoria en 
   Análisis y visualización de datos con **Python, Pandas y Matplotlib** para examinar la evolución histórica, distribución de contenidos y tendencias de catálogo.
 
 #### 📈 Business Intelligence & Dashboards
-  * 📊 [Dashboard Análisis Financiero | Power BI](https://github.com/rubenbarrios-bigdata/dashboard-analisis-financiero): Análisis de Utilidad y Márgenes 
-  * 💵 [Dashboard de Análisis Financiero](https://github.com/rubenbarrios-bigdata/dashboard-analisis-financiero): Análisis de ingresos, costos y márgenes por línea de negocio (Consumer Tech).
-  * 🎧 [Dashboard de Atención al Cliente](https://github.com/rubenbarrios-bigdata/dashboard-atencion-al-cliente): Monitoreo de desempeño operativo, eficiencia de agentes y métricas de servicio (CSAT).
-  * 👥 [Dashboard de Recursos Humanos](https://github.com/rubenbarrios-bigdata/dashboard-de-recursos-humanos): Estructura demográfica, desempeño laboral y análisis salarial.
-  * 📊[Dashboard de Ventas — ElectroMart](https://github.com/rubenbarrios-bigdata/dashboard_ventas_excel): Control comercial de supermercado: facturación, ticket promedio, regiones, segmentos y logística de envíos.
+  * 🎧 **[Dashboard de Atención al Cliente](https://github.com/rubenbarrios-bigdata/dashboard-atencion-al-cliente)** — [🚀 Ver Demo en Vivo](https://app.powerbi.com/view?r=eyJrIjoiM2JlOTkzNzYtYzhkZS00NWJiLWExMDgtMDVlMTU5NGU1MmIyIiwidCI6IjgxY2NjYzQzLWI1NjEtNDFmNy05NDgwLWU5ZThmMDI3YzQ0MyIsImMiOjR9)  
+    Monitoreo de desempeño operativo, eficiencia de agentes y métricas de servicio (CSAT).
+  * 👥 **[Dashboard de Recursos Humanos](https://github.com/rubenbarrios-bigdata/dashboard-de-recursos-humanos)** — [🚀 Ver Demo en Vivo](https://app.powerbi.com/view?r=eyJrIjoiYTBhZjUyMmYtYjMwZi00YmUwLWE4ZDQtZWEwYWQ2MjU1ZTljIiwidCI6IjgxY2NjYzQzLWI1NjEtNDFmNy05NDgwLWU5ZThmMDI3YzQ0MyIsImMiOjR9)  
+    Estructura demográfica, evaluación de desempeño laboral y análisis de compensaciones.
+  * 🌍 **[Dashboard Indicadores Mundiales](https://github.com/rubenbarrios-bigdata/dashboard-indicadores-mundiales)** — [🚀 Ver Demo en Vivo](https://app.powerbi.com/view?r=eyJrIjoiMmNiYTkyNzctNDM3My00MTUzLWJiZTQtMjBkYWIzMmZhNjhhIiwidCI6IjgxY2NjYzQzLWI1NjEtNDFmNy05NDgwLWU5ZThmMDI3YzQ0MyIsImMiOjR9)  
+    Análisis demográfico y de salud global: esperanza de vida, población y mortalidad infantil (216 países).
+  * 💵 **[Dashboard de Análisis Financiero](https://github.com/rubenbarrios-bigdata/dashboard-analisis-financiero)** — [🚀 Ver Demo en Vivo](https://app.powerbi.com/view?r=eyJrIjoiODA3OGI5MjQtMzcxNi00MjcxLWI2NDQtNjg4NWQzYWI0OTRmIiwidCI6IjgxY2NjYzQzLWI1NjEtNDFmNy05NDgwLWU5ZThmMDI3YzQ0MyIsImMiOjR9)  
+    Análisis de ingresos, costos, márgenes y rentabilidad por línea de negocio (Consumer Tech).
+  * 📊 **[Dashboard de Ventas — ElectroMart](https://github.com/rubenbarrios-bigdata/dashboard_ventas_excel)**  
+    Control comercial en Excel: facturación, ticket promedio, regiones, clientes y logística de envíos.
 
 ---
 
@@ -43,4 +48,4 @@ Licenciado en Administración Financiera con más de 12 años de trayectoria en 
 
 * 💼 **LinkedIn:** [linkedin.com/in/ruben-barrios](https://linkedin.com/in/ruben-barrios-1430712ab)
 * 📧 **Email:** [rubendavid1809@gmail.com](mailto:rubendavid1809@gmail.com)
-* 📄 **CV Interactivo:** [cv-html-ruben-barrios](https://rubenbarrios-bigdata.github.io/cv-html-ruben-barrios/CV_Ruben_Barrios.html)
+* 📄 **CV Interactivo:** [cv-html-ruben-barrios](https://rubenbarrios-bigdata.github.io/cv-html-ruben-barrios/)
