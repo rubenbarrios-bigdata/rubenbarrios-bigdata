@@ -48,4 +48,4 @@ Licenciado en Banca y Finanzas con más de 15 años de trayectoria en el sector 
 
 * 💼 **LinkedIn:** [linkedin.com/in/ruben-barrios](https://linkedin.com/in/ruben-barrios-1430712ab)
 * 📧 **Email:** [rubendavid1809@gmail.com](mailto:rubendavid1809@gmail.com)
-* 📄 **CV Interactivo:** [talent-intelligence-career](https://rubenbarrios-bigdata.github.io/talent-intelligence-career/)
+* 📄 **CV Interactivo:** [CV Ejecutivo Inteligente](https://rubenbarrios-bigdata.github.io/cv-ejecutivo-inteligente/)
