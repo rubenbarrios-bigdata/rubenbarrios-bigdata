@@ -1,7 +1,14 @@
 # Ruben Barrios
 ### 🛢️📊 Data Analyst | Digital Analyst |Business Intelligence | Lic. en Banca y Finanzas 
 
-Licenciado en Banca y Finanzas con más de 15 años de trayectoria en el sector bancario y más de 4 años de experiencia en análisis de métricas y prevención de fraude en e-commerce / logística. Hoy combino mi visión analítica de negocio con herramientas técnicas para extraer, transformar, analizar y visualizar datos que impulsan decisiones estratégicas basadas en evidencias.
+Analista de Datos con experiencia demostrada en análisis de métricas de fraude, logística y e-commerce, y más de 15 años de sólida
+trayectoria previa en el sector bancario y financiero internacional. Especializado en transformar requerimientos de negocio en soluciones
+analíticas de alto impacto mediante el diseño de dashboards en Power BI (DAX, modelado estrella), consultas avanzadas en SQL
+(MySQL, PostgreSQL), automatización con Python (pandas) y analítica digital de productos con GTM, GA4, Supabase y Looker Studio.
+Historial comprobado en optimización de indicadores de negocio, destacando la reducción del 80% en el ratio histórico de siniestralidad
+por fraude (de 0,150% a 0,030%) en operaciones de alto volumen mediante sistemas de monitoreo en tiempo real. Perfil analítico orientado
+a la toma de decisiones basada en evidencia, conciliaciones complejas y trabajo multidisciplinario con equipos de Producto, Backend y
+Operaciones.
 
 ---
 
