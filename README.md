@@ -50,4 +50,4 @@ Historial comprobado en optimización de indicadores de negocio, destacando la r
 
 * 💼 **LinkedIn:** [linkedin.com/in/ruben-barrios](https://linkedin.com/in/ruben-barrios-1430712ab)
 * 📧 **Email:** [rubendavid1809@gmail.com](mailto:rubendavid1809@gmail.com)
-* 📄 **CV Interactivo:** [CV Ejecutivo Inteligente](https://rubenbarrios-bigdata.github.io/cv-ejecutivo-inteligente/)
+* 📄 **CV Interactivo:** [CV Portfolio](https://rubenbarrios-bigdata.github.io/CV-Portfolio/)
