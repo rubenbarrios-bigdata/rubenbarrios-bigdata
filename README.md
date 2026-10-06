@@ -9,7 +9,7 @@ Historial comprobado en optimización de indicadores de negocio, destacando la r
 
 ### 🛠️ Stack Tecnológico
 
-- **BI & Visualización:** Power BI (DAX, Power Query) | Data Studio | Microsoft Excel (Tablas dinámicas, KPIs)
+- **BI & Visualización:** Power BI (DAX, Power Query) | dbt | Data Studio | Microsoft Excel (Tablas dinámicas, KPIs)
 - **Bases de Datos & SQL:** MySQL | Google BigQuery | SQLite | Modelado Relacional
 - **Lenguajes & Análisis:** Python (Pandas, NumPy, Matplotlib, Seaborn) | Jupyter Notebooks
 - **Analítica Digital:** Google Analytics 4 (GA4) | Google Tag Manager (GTM) | Firebase 
